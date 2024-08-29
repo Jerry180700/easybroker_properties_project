@@ -12,5 +12,5 @@ Este proyecto es un ejemplo simple de cómo consumir la API de EasyBroker utiliz
 Clona el repositorio e instala las dependencias:
 
 ```bash
-git clone [URL_DEL_REPOSITORIO]
+git clone https://github.com/Jerry180700/easybroker_properties_project.git
 cd easybroker_properties_project
